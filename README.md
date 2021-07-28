@@ -34,11 +34,13 @@ All upgrades give money, start with 99999 bonus points (gets redeemed as soon as
 Learn to Fly Idle:
 1st 3 enemies give extra money (I couldn't figure out how to make it infinite or make upgrades free :-(), start a new game to start with max research upgrades and a lot of money (Click the settings icon in the lower right and choose "new game")
 
+Mario Racing Tournament:
+Start with 99999 coins. Everything in the shop can be upgraded up to 255 (allowing one to go very fast if they wish).
+
 Potty Racers:
 Infinite money (buying upgrades isn't broken, you have to buy the upgrades in order), infinite fuel (I set it to 65535 as I struggled to figure out how to set up infinite fuel at first).  
 
 Potty Racers 2:
-
 Start with $1000000, infinite fuel. 
 
 Raft Wars:
