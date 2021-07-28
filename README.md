@@ -4,6 +4,9 @@ Flash games that I have personally hacked. You may take these without crediting 
 Ace Gangster Taxi:
 Start with $999999, infinite nitro, upgrades unlocked.
 
+American Racing:
+Start with $1000000, infinite boost.
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
