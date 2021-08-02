@@ -52,6 +52,18 @@ Infinite Missiles, Infinite Grenades, spending credits gives you more credits.
 Raft Wars 2:
 Infinite weapons (after buying at least 1), spending credits gives you more credits.
 
+Rubble Trouble (New York):
+
+All levels unlocked (including the secret levels).
+
+Rubble Trouble 2 (Tokyo):
+
+All levels unlocked (including level 31), infinite tools.
+
+Rubble Trouble 3 (Moscow):
+
+All levels unlocked, infinite tools.
+
 Super Mario 63:
 All nozzles unlocked and always available, infinite water and power for FLUDD (unlike other hacks, this also works with the volcano in Lethal Lava Land), infinite lives and infinite power (health).
 
