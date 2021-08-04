@@ -6,5 +6,8 @@ Upgrade menu unlocked.
 Age of War 2:
 Insane difficulty unlocked.
 
+Exit Path 2:
+Fixed the crash after the original loading screen (I hope).
+
 Learn to Fly 2:
 Omega Catalog may be bought, Sponsored By achievement activates as soon as the shop is accessed.
