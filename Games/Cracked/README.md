@@ -2,3 +2,6 @@ Flash games that I have personally cracked. You may take these without crediting
 
 Ace Gangster Taxi:
 Upgrade menu unlocked.
+
+Learn to Fly 2:
+Omega Catalog may be bought, Sponsored By achievement activates as soon as the shop is accessed.
