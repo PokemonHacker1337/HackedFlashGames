@@ -1,6 +1,9 @@
 # HackedFlashGames
 Flash games that I have personally hacked. You may take these without crediting me, although it would be appreciated if you did. Feel free to download these for yourself or reupload for others to play.
 
+10 More Bullets:
+All purchases give coins instead of taking, including buying more bullets.
+
 13 Days After:
 Start with all guns, start with 1000000 of all ammo types, start with lots of supplies. (Note: Getting new weapons is bugged, so never assign a survivor to search for weapons and ammo).
 
