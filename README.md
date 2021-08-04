@@ -7,6 +7,9 @@ Start with $999999, infinite nitro, upgrades unlocked.
 American Racing:
 Start with $1000000, infinite boost.
 
+Age of War:
+Start with $999999999 and 200000 XP, the cooldown for special moves has been disabled (note: if you try to spam special moves, it will cancel out the previous special move used so you cannot simply spam them).
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
@@ -53,15 +56,12 @@ Raft Wars 2:
 Infinite weapons (after buying at least 1), spending credits gives you more credits.
 
 Rubble Trouble (New York):
-
 All levels unlocked (including the secret levels).
 
 Rubble Trouble 2 (Tokyo):
-
 All levels unlocked (including level 31), infinite tools.
 
 Rubble Trouble 3 (Moscow):
-
 All levels unlocked, infinite tools.
 
 Super Mario 63:
