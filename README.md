@@ -19,6 +19,9 @@ Start with $999999999 and 200000 XP, the cooldown for special moves has been dis
 Age of War 2:
 Start with lots of money and XP, the cooldown for special moves has been disabled (ignore the cooldown timer), insane difficulty unlocked, infinite population.
 
+Drag Race Demon:
+Start with $9999, infinite fuel, infinite lives. (Technically, it's also possible to disable the opponent from being able to move, but I decided against it)
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
