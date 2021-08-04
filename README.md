@@ -22,6 +22,12 @@ Start with lots of money and XP, the cooldown for special moves has been disable
 Drag Race Demon:
 Start with $9999, infinite fuel, infinite lives. (Technically, it's also possible to disable the opponent from being able to move, but I decided against it)
 
+Drag Race Demon DX:
+Start with $9999, infinite lives
+
+Drag Race Demon 2:
+Start with $99999, infinite lives, nitro lasts forever. (Side note: you can use nitro before the race for a free head start)
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
