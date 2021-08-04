@@ -10,6 +10,9 @@ Start with $1000000, infinite boost.
 Age of War:
 Start with $999999999 and 200000 XP, the cooldown for special moves has been disabled (note: if you try to spam special moves, it will cancel out the previous special move used so you cannot simply spam them).
 
+Age of War 2:
+Start with lots of money and XP, the cooldown for special moves has been disabled, insane difficulty unlocked, infinite population.
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
