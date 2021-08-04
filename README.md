@@ -1,6 +1,9 @@
 # HackedFlashGames
 Flash games that I have personally hacked. You may take these without crediting me, although it would be appreciated if you did. Feel free to download these for yourself or reupload for others to play.
 
+13 Days After:
+Start with all guns, start with 1000000 of all ammo types, start with lots of supplies. (Note: Getting new weapons is bugged, so never assign a survivor to search for weapons and ammo).
+
 Ace Gangster Taxi:
 Start with $999999, infinite nitro, upgrades unlocked.
 
@@ -11,7 +14,7 @@ Age of War:
 Start with $999999999 and 200000 XP, the cooldown for special moves has been disabled (note: if you try to spam special moves, it will cancel out the previous special move used so you cannot simply spam them).
 
 Age of War 2:
-Start with lots of money and XP, the cooldown for special moves has been disabled, insane difficulty unlocked, infinite population.
+Start with lots of money and XP, the cooldown for special moves has been disabled (ignore the cooldown timer), insane difficulty unlocked, infinite population.
 
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
