@@ -46,6 +46,10 @@ Same as Earn to Die 2012.
 Exit Path:
 Infinite Flow (boost), invincibility (except when falling down a pit), all cosmetic items unlocked.
 
+Exit Path 2:
+Infinite overFlow, invincibility, infinite midair jumps.
+(Note: this is a little bugged. I don't know if I ever am going to come back to this, but a cracked version is available in the cracked folder if you want to try it yourself. I'm aware of the following bugs, but I don't really know how to fix them: Crash after finishing the game and most obstacles have graphical bugs (like the circle saws animate weirdly and the lasers don't go off. The latter might be an issue of the way I programmed the invincibility (removing the code that makes you die when you touch certain objects). I'll make a version of this without invincibility as I believe that that is the cause. Another issue is the intro and finishing cutscenes. I can't do much there as they are supposed to run a .flv file from the Internet at a website that is no longer around (so it never loads, and I'm glad that you are allowed to skip the cutscenes). I did get the cutscenes from Flashpoint, but I'm not sure how to set it up in a way that it will work. At the moment, I cannot recommend using this one unless you want invincibility and are willing to sacrifice having bugs).
+
 Flight:
 Infinite Fuel, upgrades give money. 
 
