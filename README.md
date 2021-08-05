@@ -100,3 +100,17 @@ All levels unlocked, all upgrades are free, skip wave cooldown removed, infinite
 
 Super Mario Defence/Defense (hacked2):
 Same as above, except the reload times for most towers have been drastically reduced. Warning: This will usually cause massive lag if abused. 
+
+Zoikz:
+Start with 999999 money, all cheats can be used infinitely. 
+Note: Here's a full list of cheats:
+MicroSquib 195019521
+MiniPop 1000 235869550
+Boom’n’Doom 123542323
+Zoikolator 987435263
+PlasmaPulsa 454536273
+FastBlast V2 453882273
+Pulse-o-Tron 442317834
+SuperShocker 872536228
+UltraZoikZapper 283625312
+MegaBlaster EMP 3000 197819801
