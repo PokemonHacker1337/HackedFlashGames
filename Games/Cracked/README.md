@@ -7,7 +7,7 @@ Age of War 2:
 Insane difficulty unlocked.
 
 Exit Path 2:
-Fixed the crash after the original loading screen (I hope).
+Fixed the crash after the original loading screen (I hope). Note: the starting cutscene will never load as it is attempting to grab a video from a website that is no longer around.
 
 Learn to Fly 2:
 Omega Catalog may be bought, Sponsored By achievement activates as soon as the shop is accessed.
