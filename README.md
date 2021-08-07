@@ -56,6 +56,9 @@ Infinite overFlow, infinite midair jumps.
 Flight:
 Infinite Fuel, upgrades give money. 
 
+Gazzoline:
+Start with $99999, 10x walking speed.
+
 Learn to Fly:
 Infinite fuel, all upgrades are free. 
 
