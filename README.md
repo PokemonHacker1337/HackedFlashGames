@@ -107,13 +107,61 @@ Same as above, except the reload times for most towers have been drastically red
 Zoikz:
 Start with 999999 money, all cheats can be used infinitely. 
 Note: Here's a full list of cheats:
+
 MicroSquib 195019521
+
 MiniPop 1000 235869550
+
 Boom’n’Doom 123542323
+
 Zoikolator 987435263
+
 PlasmaPulsa 454536273
+
 FastBlast V2 453882273
+
 Pulse-o-Tron 442317834
+
 SuperShocker 872536228
+
 UltraZoikZapper 283625312
+
 MegaBlaster EMP 3000 197819801
+
+
+
+FAQ (yes, I ramble and go on tangents a lot, sorry):
+
+Q: Where did you get the games from?
+
+A: Usually [Flashpoint](https://bluemaxima.org/flashpoint/downloads/) or finding the SWFs online. There are lots of people who have archived Flash games, so I may take from them as well.
+
+Q: I want to do the same thing as you/What did you use to make these?
+
+A: That would be a very long answer, but I highly recommend picking up a copy of [Adobe Flash Projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) as well as [ffdec](https://github.com/jindrapetrik/jpexs-decompiler/releases), both of which are free. I recommend messing around with games that you've played and just change things, like find what controls the money you start with (like in RPG style games) and increase that to see if you can make yourself start rich. Knowing a bit of Python would make it easier, but I'm not sure if it's required. Many games are programmed differently, so get creative and explore, maybe you'll make amazing hacks yourself.
+
+Q: What's the difference between hacked and cracked?
+
+A: Cracked games are games that I have not placed any hacks in, instead choosing to remove or bypass any protections on the games that limit their functionality, like sitelocks (games that don't let you perform certain actions or play them unless you play on an approved website). I feel that this is allowed as most (if not all) major browsers have disabled Flash support, so you aren't able to play them through legitimate means. On the other hand, hacks are a change to the game that allow for things not normally possible, like infinite money, infinite ammo, starting with all levels and weapons, etc. Hacks are great for learning a game to speedrun it (like having enough money to buy endgame content early), or just to casually mess around, like massively outspeed your opponents in racing games.
+
+Q: How do you decide which games to hack? 
+
+A: Usually, I just decide based on games that I've played in the past or know particularly well (like Earn to Die and Super Mario 63). With those, I know a lot more about how they work, so I don't have to figure things out for the first time. Flashpoint has also pointed me to some more that I haven't heard of (like I never knew that Exit Path had a sequel until last year when I was messing around with games). Sometimes, I find that a game hasn't been hacked before (like Exit Path 2) and feel that it should have a hack available for others to mess with (which is why I made 2). Or maybe I dislike what the current hacks have to offer and want to add something else (for example, most Exit Path hacks only have infinite flow, but I thought that invincibility would be a cool addition to add). Of course, some hackers are way better than me, as I'm not particularly good at programming, and I'm sure they will have a great future with ethical hacking if that's the road that they end up going down. 
+
+Q: Will you teach me how to hack X game?
+
+A: Probably not, especially if it's an online game. Online games mostly keep their stuff on their servers. And there are some games that I'm not familiar with and don't know how to play them. If it's a game that you are familiar with, I recommend starting with things you know about the game, like finding the starting amount of money and changing it. However, many games store data under different names. Some might refer to money as money, or as cash, or as dinero in Spanish based games. 
+
+Q: What inspired you to hack Flash games?
+
+A: Back when I was younger in the early 2010s, there were multiple websites with hacked Flash games like HackedArcadeGames and [ArcadePreHacks](arcadeprehacks.com) where hackers could post hacked games for others to play. Naturally, I got pretty jealous, and I always wanted to see how they did that. Fast forward to 2020, where a certain virus was killing millions of people, and I was taking classes related to programming (I was bored at home, couldn't go anywhere), and I got some information that helped me get a general idea as to how they did that. Now with free programs like ffdec (not sponsored), anyone with a computer can open up the source code of a Flash game and explore it to see what makes it tick. I broke many games just messing around seeing what happens if I change stuff around (one of my first hacks was hacking Super Mario 63 to increase the water you had in the tank every time you used FLUDD) or just change things in general. 
+
+Q: How do you crack Flash games?
+
+A: Well, a lot of them will be different as there are multiple ways that the game may be protected. There are games like Super Mario 63 where they have very little, except they will have a thing at the loading screen saying where the game came from and that's it. There are games like Learn to Fly 2 and Learn to Fly Idle where the protection is a bit more obvious, like the game can still be played, but there are limitations, like certain upgrades are unobtainable unless you are at the developer's website, or there is a limit on how far you may go in the story, or certain modes are unusable except at the developers website (like insane difficulty in Age of War 2. Then there are the most severe ones, like Nitrome games where the game will flat out say that you are not allowed to play the game anywhere, except from their website. This depends on how they implement it. Some may have a website whitelist (allow list) where you can only play the game if it if specifically on the whitelist. You could simply get around that by adding your website's name to the whitelist. Some games (especially popular with Kongregate) have a check that sees if the game is being ran on Kongregate or not, and how to handle the game in each case (like the game may have ads if they aren't on Kongregate and no ads if they are on Kongregate). An easy way around this is to swap the rules around so it pretends that all non Kongregate websites are Kongregate websites instead. Those are just a few of many examples that I've seen while doing this. 
+
+Q: How did you make X hack?
+
+A: A lot of them are just me messing around with things randomly. Of course, by exploring, you could get a sense of where things are and how things work. For example, if you find what is causing you damage when you walk into spikes, you could delete or change the code that makes you take damage and make it do 0 damage or heal you insteaad. 
+
+To be continued, probably. 
