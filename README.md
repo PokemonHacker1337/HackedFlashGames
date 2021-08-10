@@ -53,6 +53,9 @@ Infinite overFlow, invincibility, infinite midair jumps.
 Exit Path 2 (1.1):
 Infinite overFlow, infinite midair jumps.
 
+Exit Path 2 (possibly final):
+Infinite overFlow, infinite midair jumps, invincibility (including from falling down pits. Reset the level if you fall down a pit and cannot find yourself).
+
 Flight:
 Infinite Fuel, upgrades give money. 
 
