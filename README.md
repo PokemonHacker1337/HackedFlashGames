@@ -19,6 +19,12 @@ Start with $999999999 and 200000 XP, the cooldown for special moves has been dis
 Age of War 2:
 Start with lots of money and XP, the cooldown for special moves has been disabled (ignore the cooldown timer), insane difficulty unlocked, infinite population.
 
+Castlevania: Ninja Gaiden:
+Infinite Health and Infinite Spirit.
+
+Castlevania: Ninja Gaiden (Alt requested by BorisBeast on Discord):
+1 hit kills. 
+
 Commando Assault:
 Start with $9999999.
 
@@ -61,13 +67,16 @@ Infinite Flow (boost), invincibility (except when falling down a pit), all cosme
 
 Exit Path 2:
 Infinite overFlow, invincibility, infinite midair jumps.
-(Note: this is a little bugged. I don't know if I ever am going to come back to this, but a cracked version is available in the cracked folder if you want to try it yourself. I'm aware of the following bugs, but I don't really know how to fix them: Crash after finishing the game and most obstacles have graphical bugs (like the circle saws animate weirdly and the lasers don't go off. The latter might be an issue of the way I programmed the invincibility (removing the code that makes you die when you touch certain objects). I'll make a version of this without invincibility as I believe that that is the cause. Another issue is the intro and finishing cutscenes. I can't do much there as they are supposed to run a .flv file from the Internet at a website that is no longer around (so it never loads, and I'm glad that you are allowed to skip the cutscenes). I did get the cutscenes from Flashpoint, but I'm not sure how to set it up in a way that it will work. At the moment, I cannot recommend using this one unless you want invincibility and are willing to sacrifice having bugs).
+(Note: this is a little bugged. ~~I don't know if I ever am going to come back to this~~ (Edit: I did), but a cracked version is available in the cracked folder if you want to try it yourself. I'm aware of the following bugs, but I don't really know how to fix them: Crash after finishing the game and most obstacles have graphical bugs (like the circle saws animate weirdly and the lasers don't go off. The latter might be an issue of the way I programmed the invincibility (removing the code that makes you die when you touch certain objects). I'll make a version of this without invincibility as I believe that that is the cause. Another issue is the intro and finishing cutscenes. I can't do much there as they are supposed to run a .flv file from the Internet at a website that is no longer around (so it never loads, and I'm glad that you are allowed to skip the cutscenes). I did get the cutscenes from Flashpoint, but I'm not sure how to set it up in a way that it will work. At the moment, I cannot recommend using this one unless you want invincibility and are willing to sacrifice having bugs).
 
 Exit Path 2 (1.1):
 Infinite overFlow, infinite midair jumps.
 
 Exit Path 2 (possibly final):
 Infinite overFlow, infinite midair jumps, invincibility (including from falling down pits. Reset the level if you fall down a pit and cannot find yourself).
+
+Fishing Girl: 
+All shops are free, start with all lures.
 
 Flight:
 Infinite Fuel, upgrades give money. 
@@ -154,7 +163,7 @@ A: Usually [Flashpoint](https://bluemaxima.org/flashpoint/downloads/) or finding
 
 Q: I want to do the same thing as you/What did you use to make these?
 
-A: That would be a very long answer, but I highly recommend picking up a copy of [Adobe Flash Projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) as well as [ffdec](https://github.com/jindrapetrik/jpexs-decompiler/releases), both of which are free. I recommend messing around with games that you've played and just change things, like find what controls the money you start with (like in RPG style games) and increase that to see if you can make yourself start rich. Knowing a bit of Python would make it easier, but I'm not sure if it's required. Many games are programmed differently, so get creative and explore, maybe you'll make amazing hacks yourself.
+A: That would be a very long answer, but I highly recommend picking up a copy of [Adobe Flash Projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) as well as [ffdec](https://github.com/jindrapetrik/jpexs-decompiler/releases), both of which are free. I recommend messing around with games that you've played and just change things, like find what controls the money you start with (like in RPG style games) and increase that to see if you can make yourself start rich. Knowing a few basic programming concepts would make it easier, but I'm not sure if it's required. Many games are programmed differently, so get creative and explore, maybe you'll make amazing hacks yourself.
 
 Q: What's the difference between hacked and cracked?
 
@@ -174,7 +183,7 @@ A: Back when I was younger in the early 2010s, there were multiple websites with
 
 Q: How do you crack Flash games?
 
-A: Well, a lot of them will be different as there are multiple ways that the game may be protected. There are games like Super Mario 63 where they have very little, except they will have a thing at the loading screen saying where the game came from and that's it. There are games like Learn to Fly 2 and Learn to Fly Idle where the protection is a bit more obvious, like the game can still be played, but there are limitations, like certain upgrades are unobtainable unless you are at the developer's website, or there is a limit on how far you may go in the story, or certain modes are unusable except at the developers website (like insane difficulty in Age of War 2). Then there are the most severe ones, like Nitrome games where the game will flat out say that you are not allowed to play the game anywhere, except from their website. This depends on how they implement it. Some may have a website whitelist (allow list) where you can only play the game if it if specifically on the whitelist. You could simply get around that by adding your website's name to the whitelist. Some games (especially popular with Kongregate) have a check that sees if the game is being ran on Kongregate or not, and how to handle the game in each case (like the game may have ads if they aren't on Kongregate and no ads if they are on Kongregate). An easy way around this is to swap the rules around so it pretends that all non Kongregate websites are Kongregate websites instead. Those are just a few of many examples that I've seen while doing this. 
+A: Well, a lot of them will be different as there are multiple ways that the game may be protected. There are games like Super Mario 63 where they have very little, except they will have a thing at the loading screen saying where the game came from and that's it. There are games like Learn to Fly 2 and Learn to Fly Idle where the protection is a bit more obvious, like the game can still be played, but there are limitations, like certain upgrades are unobtainable unless you are at the developer's website, or there is a limit on how far you may go in the story, or certain modes are unusable except at the developers website (like insane difficulty in Age of War 2). Then there are the most severe ones, like Nitrome games where the game will flat out say that you are not allowed to play the game anywhere, except from their website (note: I will not personally host Nitrome games as that can legally be problematic). This depends on how they implement it. Some may have a website whitelist (allow list) where you can only play the game if it if specifically on the whitelist. You could simply get around that by adding your website's name to the whitelist. Some games (especially popular with Kongregate) have a check that sees if the game is being ran on Kongregate or not, and how to handle the game in each case (like the game may have ads if they aren't on Kongregate and no ads if they are on Kongregate). An easy way around this is to swap the rules around so it pretends that all non Kongregate websites are Kongregate websites instead. Those are just a few of many examples that I've seen while doing this. 
 
 Q: How did you make X hack?
 
@@ -187,5 +196,13 @@ A: There are quite a few ways that you can still play them unofficially. If you 
 Q: Why would you make a hack for this game? X already made a better one.
 
 A: Probably. I'm just doing this for fun, not to be professional or anything. 
+
+Q: I tried hacking a game, and it froze/did something it shouldn't do, which didn't happen before I hacked it. What gives?
+
+A: FFdec (I haven't tried others) is entirely experimental with the ActionScript editing function. I recommend editing by P-Code (the input box on the right side) instead. It is in a different form, but if you can understand the concepts of AS, you shouldn't have a hard time figuring out how P-Code editing works. Since AS editing is experimental, it commonly causes unexpected issues with recompiling. 
+
+Q: With FFdec, how do I run games that require extra files (Example: Commando Assault) properly?
+
+A: (Only known fix works in Windows) Place the required files/folders in the folder %temp% (By default, it's at C:\Users\%username%\AppData\Local\Temp), and that's it. 
 
 To be continued, probably. 
