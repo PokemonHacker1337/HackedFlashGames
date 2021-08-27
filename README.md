@@ -36,7 +36,7 @@ Start with $9999999, all levels unlocked, start with 99999 health.
 
 Commando Assault (1.3):
 Start with $9999999, all levels unlocked, start with 99999 health, start with 99 lives, infinite ammo for every gun.
-(Note: for all Commando Assault hacks, a resource folder is required, which can be found [here](https://cdn.discordapp.com/attachments/855081757664870411/880292169301241856/resource.zip)
+(Note: for all Commando Assault hacks, a resource folder is required, which can be found [here](https://cdn.discordapp.com/attachments/855081757664870411/880292169301241856/resource.zip)).
 
 Drag Race Demon:
 Start with $9999, infinite fuel, infinite lives. (Technically, it's also possible to disable the opponent from being able to move, but I decided against it)
