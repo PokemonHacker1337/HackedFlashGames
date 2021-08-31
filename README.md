@@ -111,6 +111,9 @@ Infinite Missiles, Infinite Grenades, spending credits gives you more credits.
 Raft Wars 2:
 Infinite weapons (after buying at least 1), spending credits gives you more credits.
 
+Road of the Dead:
+Start with 999999999 RP, all modes unlocked. (I'm aware of a red flickering at the title screen, you might want to avoid this hack if you have epilepsy or any other similar issues).
+
 ~~Rubble Trouble (New York):
 All levels unlocked (including the secret levels).~~
 
