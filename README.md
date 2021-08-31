@@ -7,6 +7,9 @@ All purchases give coins instead of taking, including buying more bullets.
 13 Days After:
 Start with all guns, start with 1000000 of all ammo types, start with lots of supplies. (Note: Getting new weapons is bugged, so never assign a survivor to search for weapons and ammo).
 
+Abobo's Big Adventure:
+All unlockables available, all levels unlocked, lots of lives, fast rage regeneration (I cannot make a hack where rage is always available, or else it will softlock)
+
 Ace Gangster Taxi:
 Start with $999999, infinite nitro, upgrades unlocked.
 
@@ -191,7 +194,7 @@ A: A lot of them are just me messing around with things randomly. Of course, by 
 
 Q: Flash has been dead for a while as most browsers no longer support it. How are we supposed to play these? 
 
-A: There are quite a few ways that you can still play them unofficially. If you add them to a website, people may play them with [Y8 Browser](https://www.y8.com/download-app), [Ruffle](https://ruffle.rs/#downloads), [Supernova (Chrome only)](https://www.getsupernova.com/extension/), or through [Adobe's Flash player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) (currently the only official method of doing so).
+A: There are quite a few ways that you can still play them unofficially. If you add them to a website, people may play them with [Y8 Browser](https://www.y8.com/download-app), [Ruffle](https://ruffle.rs/#downloads), [Supernova (Chrome only)](https://www.getsupernova.com/extension/), or through [Adobe's Flash player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) (currently the only official method of doing so). I will not give support over any method used unless the problem is related to a sitelock that I missed.
 
 Q: Why would you make a hack for this game? X already made a better one.
 
@@ -204,5 +207,14 @@ A: FFdec (I haven't tried others) is entirely experimental with the ActionScript
 Q: With FFdec, how do I run games that require extra files (Example: Commando Assault) properly?
 
 A: (Only known fix works in Windows) Place the required files/folders in the folder %temp% (By default, it's at C:\Users\%username%\AppData\Local\Temp), and that's it. 
+
+Q: What's the point in playing a hacked game? That just takes the fun out of it.
+
+A: Well, I'm not sure why you are here then, to be honest. Some games take way too long to beat or are simply too hard. Or maybe just for the fun of it, like as I mentioned above, getting endgame content early so you can practice with it. Or even just wiping out RPG bosses in seconds that normally give players a hard time to beat.
+
+Q: Do you put any DRM in your hacks?
+
+A: I don't. I want people to be able to edit them and learn from others. The hacks I make are absolutely not the only ways to hack, and definitely not the only hacks a game can have. Placing any kind of DRM or protection honestly seems silly and counterproductive to progress. I do acknowledge the possiblity of someone just taking a hack and claiming that they made it when they didn't. While I'd rather not have people do that, at the same time, I'd rather have people be able to improve it than to not have my work stolen. 
+
 
 To be continued, probably. 
