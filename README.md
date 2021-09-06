@@ -212,7 +212,7 @@ A: FFdec (I haven't tried others) is entirely experimental with the ActionScript
 
 Q: With FFdec, how do I run games that require extra files (Example: Commando Assault) properly?
 
-A: (Only known fix works in Windows) Place the required files/folders in the folder %temp% (By default, it's at C:\Users\%username%\AppData\Local\Temp), and that's it. 
+A: (Only known fix works in Windows) Place the required files/folders in the folder %temp% (By default, it's at C:/Users/%username%/AppData/Local/Temp), and that's it. 
 
 Q: What's the point in playing a hacked game? That just takes the fun out of it.
 
