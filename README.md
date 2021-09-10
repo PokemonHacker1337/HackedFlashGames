@@ -7,6 +7,9 @@ All purchases give coins instead of taking, including buying more bullets.
 13 Days After:
 Start with all guns, start with 1000000 of all ammo types, start with lots of supplies. (Note: Getting new weapons is bugged, so never assign a survivor to search for weapons and ammo).
 
+13 Days in Hell:
+Start with 999999999 souls (money), start with 999999999 ammo, infinite health, reloading the gun is not required (not really sure how to word it, I made it possible to keep shooting even after the gun is out of ammo)
+
 Abobo's Big Adventure:
 All unlockables available, all levels unlocked, lots of lives, fast rage regeneration (I cannot make a hack where rage is always available, or else it will softlock)
 
