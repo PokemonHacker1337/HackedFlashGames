@@ -99,6 +99,9 @@ Start with $99999, 10x walking speed.
 Get Off My Lawn:
 All enemies give lots of money (couldn't find out how to increase starting money, sorry :-(), infinite spin, health will not go under 100
 
+Gunner Vario:
+Start with lots of money. Minigun can be bought.
+
 Learn to Fly:
 Infinite fuel, all upgrades are free. 
 
@@ -153,6 +156,9 @@ All levels unlocked (including level 31), infinite tools.~~
 ~~Rubble Trouble 3 (Moscow):
 All levels unlocked, infinite tools.~~
 
+Sprint Driver:
+All bikes are free, start with lots of health
+
 Stick RPG:
 Start with $999999999, stat cap removed (it will still visually max out at 999, but they still will increase in the background), have lots of stat points. Enter the name HEYZEUS!!! for 555 of all stats (this was an Easter egg implemented legitimately). Enter the name Random to have random stats between 0 and 999. Enter the name MAX to start with 999 of all stats.
 
@@ -167,6 +173,15 @@ All levels unlocked, all upgrades are free, skip wave cooldown removed, infinite
 
 Super Mario Defence/Defense (hacked2):
 Same as above, except the reload times for most towers have been drastically reduced. Warning: This will usually cause massive lag if abused. 
+
+Swords and Sandals: 
+Start with 999999 gold, start with 999999 skill points (note: the randomize button will reset the skill points back to 10), can buy any armor and weapon regardless of level, 999999 skill points on level up (I have disabled the message that requires spending all of the skill points to proceed)
+
+The Heist:
+Start with $999999999 (upgrades are not broken, you have to buy them in order, excluding the weapons), start with 999 respect, all missions unlocked at start.
+
+The Heist 2:
+Start with $9999999
 
 Zoikz:
 Start with 999999 money, all cheats can be used infinitely, infinite lives. 
