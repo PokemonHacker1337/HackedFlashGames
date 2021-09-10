@@ -14,3 +14,6 @@ Bypassed Kongregate website requirements regarding certain items in the store.
 
 Learn to Fly 2:
 Omega Catalog may be bought, Sponsored By achievement activates as soon as the shop is accessed.
+
+Learn to Fly Idle:
+Research upgrades can be upgraded to 100, as opposed to the normal 10. Ads have been removed.
