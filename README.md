@@ -132,6 +132,10 @@ All levels unlocked (including level 31), infinite tools.~~
 ~~Rubble Trouble 3 (Moscow):
 All levels unlocked, infinite tools.~~
 
+Stick RPG:
+
+Start with $999999999, stat cap removed (it will still visually max out at 999, but they still will increase in the background), have lots of stat points. Enter the name HEYZEUS!!! for 555 of all stats (this was an Easter egg implemented legitimately). Enter the name Random to have random stats between 0 and 999. Enter the name MAX to start with 999 of all stats.
+
 Super Mario 63:
 All nozzles unlocked and always available, infinite water and power for FLUDD (unlike other hacks, this also works with the volcano in Lethal Lava Land), infinite lives and infinite power (health).
 
