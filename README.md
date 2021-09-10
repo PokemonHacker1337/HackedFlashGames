@@ -105,6 +105,9 @@ Start with 99999 coins. Everything in the shop can be upgraded up to 255 (allowi
 Mario Remix: Boss Edition:
 Start with 999999 coins, invincible, start with all powerups.
 
+Meat Boy: 
+Start with all levels unlocked, invincible. 
+
 Potty Racers:
 Infinite money (buying upgrades isn't broken, you have to buy the upgrades in order), infinite fuel (I set it to 65535 as I struggled to figure out how to set up infinite fuel at first).  
 
