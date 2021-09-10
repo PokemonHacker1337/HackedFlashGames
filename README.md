@@ -203,7 +203,9 @@ A: A lot of them are just me messing around with things randomly. Of course, by 
 
 Q: Flash has been dead for a while as most browsers no longer support it. How are we supposed to play these? 
 
-A: There are quite a few ways that you can still play them unofficially. If you add them to a website, people may play them with [Y8 Browser](https://www.y8.com/download-app), [Ruffle](https://ruffle.rs/#downloads), [Supernova (Chrome only)](https://www.getsupernova.com/extension/), or through [Adobe's Flash player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) (currently the only official method of doing so). I will not give support over any method used unless the problem is related to a sitelock that I missed.
+A: ~~There are quite a few ways that you can still play them unofficially. If you add them to a website, people may play them with [Y8 Browser](https://www.y8.com/download-app), [Ruffle](https://ruffle.rs/#downloads), [Supernova (Chrome only)](https://www.getsupernova.com/extension/), or through [Adobe's Flash player projector](https://www.adobe.com/support/flashplayer/debug_downloads.html) (currently the only official method of doing so). I will not give support over any method used unless the problem is related to a sitelock that I missed.~~
+
+I rewrote this response [here](https://github.com/PokemonHacker1337/Play-Flash-Games-In-2021/blob/main/README.md)
 
 Q: Why would you make a hack for this game? X already made a better one.
 
