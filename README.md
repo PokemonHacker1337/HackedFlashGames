@@ -93,6 +93,9 @@ Start with $999999999, infinite boost, moving the sliders past average will not 
 Gazzoline:
 Start with $99999, 10x walking speed.
 
+Get Off My Lawn:
+All enemies give lots of money (couldn't find out how to increase starting money, sorry :-(), infinite spin, health will not go under 100
+
 Learn to Fly:
 Infinite fuel, all upgrades are free. 
 
