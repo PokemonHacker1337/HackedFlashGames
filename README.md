@@ -84,6 +84,9 @@ All shops are free, start with all lures.
 Flight:
 Infinite Fuel, upgrades give money. 
 
+Formula Racer 2012:
+Start with $999999999, infinite boost, moving the sliders past average will not lower the other sliders.
+
 Gazzoline:
 Start with $99999, 10x walking speed.
 
@@ -133,7 +136,6 @@ All levels unlocked (including level 31), infinite tools.~~
 All levels unlocked, infinite tools.~~
 
 Stick RPG:
-
 Start with $999999999, stat cap removed (it will still visually max out at 999, but they still will increase in the background), have lots of stat points. Enter the name HEYZEUS!!! for 555 of all stats (this was an Easter egg implemented legitimately). Enter the name Random to have random stats between 0 and 999. Enter the name MAX to start with 999 of all stats.
 
 Super Mario 63:
