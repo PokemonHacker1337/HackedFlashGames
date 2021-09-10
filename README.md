@@ -31,6 +31,9 @@ Infinite Health and Infinite Spirit.
 Castlevania: Ninja Gaiden (Alt requested by BorisBeast on Discord):
 1 hit kills. 
 
+Club Nitro:
+Start with $999999999, infinite boost (ignore the meter).
+
 Commando Assault:
 Start with $9999999.
 
@@ -108,6 +111,9 @@ Learn to Fly Idle:
 Learn to Fly Idle (LTFI):
 Fast research point generation, upgrades are free or cost $1. Note: if you upgrade the launch power too much, you'll fire shots fast enough to bypass the enemy collision and be unable to progress in the game as a result. Reset your data by going to the gear icon in the lower right and choosing to start a new game if you somehow do this (or if you decide to try it yourself, I won't judge). 
 
+Mario and Sonic Zombie Killer:
+Start with 999999999 coins, 30x faster reloading
+
 Mario Racing Tournament:
 Start with 99999 coins. Everything in the shop can be upgraded up to 255 (allowing one to go very fast if they wish).
 
@@ -116,6 +122,12 @@ Start with 999999 coins, invincible, start with all powerups.
 
 Meat Boy: 
 Start with all levels unlocked, invincible. 
+
+Neon Race:
+Start with $999999999 (upgrades aren't broken, you have to buy them in order), all levels unlocked, start with the Supercar, infinite turbo after destroying 1 red vehicle (resets if you crash).
+
+Neon Race 2:
+Same as the first game.
 
 Potty Racers:
 Infinite money (buying upgrades isn't broken, you have to buy the upgrades in order), infinite fuel (I set it to 65535 as I struggled to figure out how to set up infinite fuel at first).  
