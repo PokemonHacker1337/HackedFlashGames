@@ -96,6 +96,9 @@ All upgrades give money, start with 99999 bonus points (gets redeemed as soon as
 Learn to Fly Idle:
 1st 3 enemies give extra money (I couldn't figure out how to make it infinite or make upgrades free :-(), start a new game to start with max research upgrades and a lot of money (Click the settings icon in the lower right and choose "new game")
 
+Learn to Fly Idle (LTFI):
+Fast research point generation, upgrades are free or cost $1. Note: if you upgrade the launch power too much, you'll fire shots fast enough to bypass the enemy collision and be unable to progress in the game as a result. Reset your data by going to the gear icon in the lower right and choosing to start a new game if you somehow do this (or if you decide to try it yourself, I won't judge). 
+
 Mario Racing Tournament:
 Start with 99999 coins. Everything in the shop can be upgraded up to 255 (allowing one to go very fast if they wish).
 
