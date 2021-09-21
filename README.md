@@ -71,6 +71,9 @@ Same as Earn to Die 2012
 Earn to Die 2: Exodus:
 Same as Earn to Die 2012. 
 
+Electric Racing:
+Start with all cars and levels, start with $999999999, infinite charge (you can continue to charge near other cars to increase your top speed).
+
 Exit Path:
 Infinite Flow (boost), invincibility (except when falling down a pit), all cosmetic items unlocked.
 
@@ -101,6 +104,9 @@ All enemies give lots of money (couldn't find out how to increase starting money
 
 Gunner Vario:
 Start with lots of money. Minigun can be bought.
+
+Hurt Ragdoll Bieber:
+Start with 31 years on the timer.
 
 Learn to Fly:
 Infinite fuel, all upgrades are free. 
