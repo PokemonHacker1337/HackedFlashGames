@@ -183,6 +183,9 @@ Same as above, except the reload times for most towers have been drastically red
 Swords and Sandals: 
 Start with 999999 gold, start with 999999 skill points (note: the randomize button will reset the skill points back to 10), can buy any armor and weapon regardless of level, 999999 skill points on level up (I have disabled the message that requires spending all of the skill points to proceed)
 
+Swords and Sandals 2:
+Start with 999999999 gold, start with 999999999 skill points (I disabled the message that comes up if you don't spend all the points, I don't expect any reasonable person to click almost a billion times), can buy any armor regardless of level, 999999999 skill points on level up. 
+
 The Heist:
 Start with $999999999 (upgrades are not broken, you have to buy them in order, excluding the weapons), start with 999 respect, all missions unlocked at start.
 
