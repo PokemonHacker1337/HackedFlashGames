@@ -277,6 +277,6 @@ A: I don't. I want people to be able to edit them and learn from others. The hac
 
 Q: Why did you remove the Nitrome hacks?
 
-A: It has been brought to my attention by a member of FGA that Nitrome takes legal action against those who rehost their games, which is honestly pretty petty when they don't leave legitimate ways to play their games since Flash is no longer available. They are probably available on (the Internet archive)[archive.org]
+A: It has been brought to my attention by a member of FGA that Nitrome takes legal action against those who rehost their games, which is honestly pretty petty when they don't leave legitimate ways to play their games since Flash is no longer available. They are probably available on [the Internet archive](archive.org).
 
 To be continued, probably. 
