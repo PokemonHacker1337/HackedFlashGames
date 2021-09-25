@@ -275,5 +275,8 @@ Q: Do you put any DRM in your hacks?
 
 A: I don't. I want people to be able to edit them and learn from others. The hacks I make are absolutely not the only ways to hack, and definitely not the only hacks a game can have. Placing any kind of DRM or protection honestly seems silly and counterproductive to progress. I do acknowledge the possiblity of someone just taking a hack and claiming that they made it when they didn't. While I'd rather not have people do that, at the same time, I'd rather have people be able to improve it than to not have my work stolen. 
 
+Q: Why did you remove the Nitrome hacks?
+
+A: It has been brought to my attention by a member of FGA that Nitrome takes legal action against those who rehost their games, which is honestly pretty petty when they don't leave legitimate ways to play their games since Flash is no longer available. They are probably available on (the Internet archive)[archive.org]
 
 To be continued, probably. 
