@@ -25,6 +25,9 @@ Start with $999999999 and 200000 XP, the cooldown for special moves has been dis
 Age of War 2:
 Start with lots of money and XP, the cooldown for special moves has been disabled (ignore the cooldown timer), insane difficulty unlocked, infinite population.
 
+Big Truck Adventures 2:
+Failing any mission gives lives instead of losing them, infinite boost, time for all missions increased to 1 hour, losing all cargo will not make you fail.
+
 Castlevania: Ninja Gaiden:
 Infinite Health and Infinite Spirit.
 
