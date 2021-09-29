@@ -282,4 +282,8 @@ Q: Why did you remove the Nitrome hacks?
 
 A: It has been brought to my attention by a member of FGA that Nitrome takes legal action against those who rehost their games, which is honestly pretty petty when they don't leave legitimate ways to play their games since Flash is no longer available. They are probably available on [the Internet archive](https://archive.org).
 
+Q: Are there any offline flash games that you will not hack? (rant)
+
+A: Any game that is too obfuscated for me to deal with, I won't bother with. Also, I will not make hacks for cookie cutter racing games, as there are way too many of those (I am referring to racing games that are the exact same, but with different vehicles, such as 3D Jet Truck. I'm not sure what the original game is that games like these are based on, but there are far too many of them that are the same, just different characters. Either the same person keeps making the same game, just changing up the graphics a little bit, or it's basically open for anyone to me able to throw assets into it and claim it as a different game. Also, I don't know why there are so many games that even have 3D in the title. 64 bit consoles from the late 90s had actual 3D, it's not something to brag about in the 2010s (when a lot of these games came out) 
+
 To be continued, probably. 
