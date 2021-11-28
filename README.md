@@ -90,6 +90,9 @@ Infinite overFlow, infinite midair jumps.
 Exit Path 2 (possibly final):
 Infinite overFlow, infinite midair jumps, invincibility (including from falling down pits. Reset the level if you fall down a pit and cannot find yourself).
 
+Fireboy and Watergirl 1 (Forest Temple)
+Invincible to all hazards, can jump in midair. 
+
 Fishing Girl: 
 All shops are free, start with all lures.
 
