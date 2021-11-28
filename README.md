@@ -105,6 +105,9 @@ Start with $99999, 10x walking speed.
 Get Off My Lawn:
 All enemies give lots of money (couldn't find out how to increase starting money, sorry :-(), infinite spin, health will not go under 100
 
+Grand Prix Management:
+Start with $999999999, upgrade limit changed to 100 instead of 10. 
+
 Gunner Vario:
 Start with lots of money. Minigun can be bought.
 
