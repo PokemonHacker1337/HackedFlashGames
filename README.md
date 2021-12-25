@@ -121,7 +121,7 @@ Learn to Fly:
 Infinite fuel, all upgrades are free. 
 
 Learn to Fly 2:
-All upgrades give money, start with 99999 bonus points (gets redeemed as soon as you access the shop (if that doesn't work, get the Give an Inch achievement for 10000 bonus points)), infinite fuel (for both gliders and boosts), Omega catalog should be able to be bought.
+All upgrades give money, start with 99999 bonus points (gets redeemed as soon as you access the shop (if that doesn't work, get the Give an Inch achievement for 10000 bonus points)), near infinite fuel (for both gliders and boosts), Omega catalog should be able to be bought.
 
 Learn to Fly Idle:
 1st 3 enemies give extra money (I couldn't figure out how to make it infinite or make upgrades free :-(), start a new game to start with max research upgrades and a lot of money (Click the settings icon in the lower right and choose "new game")
