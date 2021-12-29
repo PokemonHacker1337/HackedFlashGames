@@ -6,6 +6,9 @@ Upgrade menu unlocked.
 Age of War 2:
 Insane difficulty unlocked.
 
+Creeper World 2:
+Rerouted the sitelock to not care if it isn't running on an approved website.
+
 Exit Path 2:
 Fixed the crash after the original loading screen (I hope). Note: the starting cutscene will never load as it is attempting to grab a video from a website that is no longer around.
 
