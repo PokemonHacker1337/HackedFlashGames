@@ -147,6 +147,9 @@ Start with $999999999 (upgrades aren't broken, you have to buy them in order), a
 Neon Race 2:
 Same as the first game.
 
+Papa's Freezeria:
+Start with infinite money
+
 Potty Racers:
 Infinite money (buying upgrades isn't broken, you have to buy the upgrades in order), infinite fuel (I set it to 65535 as I struggled to figure out how to set up infinite fuel at first).  
 
@@ -170,6 +173,17 @@ All levels unlocked (including level 31), infinite tools.~~
 
 ~~Rubble Trouble 3 (Moscow):
 All levels unlocked, infinite tools.~~
+
+Siftheads Assault 1:
+Infinite money.
+
+Here are the cheats: 
+90315: Invincibility
+80373: +10000 money (not that you need it in an infinite money hack)
+11075: Faster running speed
+11348: Reduced gravity
+105361: Harder enemies, I think
+101868: Not sure, I couldn't tell any differences.
 
 Sprint Driver:
 All bikes are free, start with lots of health
