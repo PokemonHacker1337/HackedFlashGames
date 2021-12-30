@@ -34,6 +34,9 @@ Infinite Health and Infinite Spirit.
 Castlevania: Ninja Gaiden (Alt requested by BorisBeast on Discord):
 1 hit kills. 
 
+Castle Wars: 
+Start with 999 of all resources (Player 1 only)
+
 Club Nitro:
 Start with $999999999, infinite boost (ignore the meter).
 
