@@ -114,6 +114,9 @@ All enemies give lots of money (couldn't find out how to increase starting money
 Grand Prix Management:
 Start with $999999999, upgrade limit changed to 100 instead of 10. 
 
+Groundhog D-Day:
+Start with 999999 acorns, using potions gives you more potions, infinite powerups (except the rocket, I couldn't get that working) once you buy them. 
+
 Gunner Vario:
 Start with lots of money. Minigun can be bought.
 
