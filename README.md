@@ -147,6 +147,9 @@ Start with 999999 coins, invincible, start with all powerups.
 Meat Boy: 
 Start with all levels unlocked, invincible. 
 
+Mr. Vario:
+Start with $99999999, infinite starpower (boost).
+
 Neon Race:
 Start with $999999999 (upgrades aren't broken, you have to buy them in order), all levels unlocked, start with the Supercar, infinite turbo after destroying 1 red vehicle (resets if you crash).
 
