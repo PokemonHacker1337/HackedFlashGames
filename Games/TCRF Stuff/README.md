@@ -2,7 +2,7 @@ Learn to Fly 2:
 Enabled [Sponsor Menu](https://tcrf.net/Learn_to_Fly_2). The SWF has also been patched to allow buying all items in the bonus shop, Omega catalog included. 
 
 Bejeweled Twist: 
-Enabled [hidden debugging features](https://pastebin.com/nH7pPaxd). Note: This was actually how the game came on Flashpoint. However, it was not documented anywhere. In case the above link gets taken down, the debugging features are essentially keyhacks:
+Enabled [hidden debugging features](https://tcrf.net/Bejeweled_Twist_(Adobe_Flash)). Note: This was actually how the game came on Flashpoint. However, it was not documented anywhere. In case the above link gets taken down, the debugging features are essentially keyhacks:
 
 
 1: Turns jewel under the mouse cursor into a blue diamond
