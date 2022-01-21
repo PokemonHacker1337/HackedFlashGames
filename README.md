@@ -314,8 +314,16 @@ Q: Why did you remove the Nitrome hacks?
 
 A: It has been brought to my attention by a member of FGA that Nitrome takes legal action against those who rehost their games, which is honestly pretty petty when they don't leave legitimate ways to play their games since Flash is no longer available. They are probably available on [the Internet archive](https://archive.org).
 
-Q: Are there any offline flash games that you will not hack? (rant)
+Q: Can I donate to you? 
 
-A: Any game that is too obfuscated for me to deal with, I won't bother with. Also, I will not make hacks for cookie cutter racing games, as there are way too many of those (I am referring to racing games that are the exact same, but with different vehicles, such as 3D Jet Truck. I'm not sure what the original game is that games like these are based on, but there are far too many of them that are the same, just different characters. Either the same person keeps making the same game, just changing up the graphics a little bit, or it's basically open for anyone to me able to throw assets into it and claim it as a different game. Also, I don't know why there are so many games that even have 3D in the title. 64 bit consoles from the late 90s had actual 3D, it's not something to brag about in the 2010s (when a lot of these games came out) 
+A: I've been considering taking donations. However, this isn't really large enough to the point where it would make a difference. I may consider it if I am in desperate need of money or something. In addition, I'm not popular or anything, I just run a fringe repository that very few people know about. That's ok though. Perhaps if my submissions were accepted on one of the many hacked flash websites, I'd be more open to creating a donation page. I don't want to give the appearance though that I will charge for my hacks. They are free and always will be. Any donations are voluntary.
+
+Q: I run my own Flash related project/website. May I use your cracks/hacks?
+
+A: Of course, help yourself. Credit would be appreciated, but I will not require it. All I ask is that you don't pass it off as your own work or sell it.
+
+Q: How can I contact you?
+
+A: At the moment, you can find me on [Twitter](https://twitter.com/PKHacker1337), but I am also reachable through the [Discord](https://discord.com/invite/vgsb7h6Jvg) [servers](https://discord.gg/h5PW6NqUvA) that I have joined (please don't DM me without asking, I get lots of spam messages as it is).
 
 To be continued, probably. 
