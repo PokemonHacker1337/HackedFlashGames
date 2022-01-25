@@ -31,6 +31,9 @@ Start with lots of money and XP, the cooldown for special moves has been disable
 Big Truck Adventures 2:
 Failing any mission gives lives instead of losing them, infinite boost, time for all missions increased to 1 hour, losing all cargo will not make you fail.
 
+Bloons TD:
+Start with $999999999.
+
 Castlevania: Ninja Gaiden:
 Infinite Health and Infinite Spirit.
 
