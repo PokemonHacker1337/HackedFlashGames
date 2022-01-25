@@ -21,5 +21,8 @@ Omega Catalog may be bought, Sponsored By achievement activates as soon as the s
 Learn to Fly Idle:
 Research upgrades can be upgraded to 100, as opposed to the normal 10. Ads have been removed.
 
+Mimkins:
+Removed sitelock from the preloader (otherwise the game hangs)
+
 Shadez 3:
 Attempted to unlock the CMG only levels. Untested though, it might be broken. 
