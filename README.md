@@ -68,6 +68,9 @@ Start with $9999, infinite lives
 Drag Race Demon 2:
 Start with $99999, infinite lives, nitro lasts forever. (Side note: you can use nitro before the race for a free head start)
 
+Drugs Drugs Drugs:
+Craving bar increases instead of decreases, essentially turning the game into an infinite mode.
+
 Dune Buggy:
 Infinite health and lives (I decided against time as I kept getting softlocked in testing).
 
