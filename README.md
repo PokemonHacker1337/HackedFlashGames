@@ -236,6 +236,9 @@ Start with $999999999 (upgrades are not broken, you have to buy them in order, e
 The Heist 2:
 Start with $9999999
 
+This is the Only Level 4:
+All modes unlocked.
+
 Zoikz:
 Start with 999999 money, all cheats can be used infinitely, infinite lives. 
 Note: Here's a full list of cheats:
@@ -336,6 +339,6 @@ A: Of course, help yourself. Credit would be appreciated, but I will not require
 
 Q: How can I contact you?
 
-A: At the moment, you can find me on [Twitter](https://twitter.com/PKHacker1337), but I am also reachable through the [Discord](https://discord.com/invite/vgsb7h6Jvg) [servers](https://discord.gg/h5PW6NqUvA) that I have joined (please don't DM me without asking, I get lots of spam messages as it is).
+A: At the moment, you can find me on [Twitter](https://twitter.com/PKHacker1337), but I am also reachable through the [Discord](https://discord.com/invite/vgsb7h6Jvg) [servers](https://discord.gg/h5PW6NqUvA) that I have joined (please don't DM me without asking, I get lots of spam messages as it is), I am also available on [Reddit](https://reddit.com/u/PKHacker1337).
 
 To be continued, probably. 
