@@ -24,5 +24,8 @@ Research upgrades can be upgraded to 100, as opposed to the normal 10. Ads have 
 Mimkins:
 Removed sitelock from the preloader (otherwise the game hangs)
 
+Nightflies Fever:
+Removed sitelock
+
 Shadez 3:
 Attempted to unlock the CMG only levels. Untested though, it might be broken. 
