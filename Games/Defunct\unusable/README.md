@@ -5,3 +5,6 @@ Technically, it still works. However, you cannot log in to your account at all, 
 
 Power Pamplona:
 Missing a ton of required assets. 
+
+Rail of War:
+This is supposed to be more of a demo for the PC game. Because the full version assets aren't available in the game anywhere, there's nothing I can do.
