@@ -12,7 +12,7 @@ Creeper World 2:
 Rerouted the sitelock to not care if it isn't running on an approved website.
 
 Exit Path 2:
-Fixed the crash after the original loading screen (I hope). Note: the starting cutscene will never load as it is attempting to grab a video from a website that is no longer around.
+Fixed the crash after the original loading screen (I hope). Note: the starting cutscene will never load as it is attempting to grab a video from a website that is no longer around. Update: I actually fixed this! Flashpoint's solution was to load the video locally, but I rehosted the cutscenes on the Internet Archive and updated the code accordingly.
 
 Gazzoline:
 Bypassed Kongregate website requirements regarding certain items in the store. 
